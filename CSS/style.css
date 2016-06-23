@@ -2,7 +2,7 @@ body {
   font-family:Avenir;
   color:navy;
   padding-left: 2em;
-  animation:pulse 5s infinite;
+  animation:pulse 10s infinite;
 }
 @keyframes pulse{
   0%{
