@@ -1,0 +1,36 @@
+body {
+  font-family:Avenir;
+  color:navy;
+  padding-left: 2em;
+  animation:pulse 5s infinite;
+}
+@keyframes pulse{
+  0%{
+    background-color:#72BF94;
+  } 
+  50%{
+    background-color:pink
+  }
+  100%{
+    background-color:#72BF94;
+  }
+}
+
+h1{
+  font-size: 40px;
+  position: relative;
+  top: 10px;
+}
+
+li{
+  font-style: italic;
+}
+
+h3{
+  text-decoration: underline;
+}
+
+a{
+  color: 72BF94;
+  font-weight: bold;
+}
